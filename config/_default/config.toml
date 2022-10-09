@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.amandafrois.com"
+baseurl = "https://amandafrois.github.io/"
 languageCode = "pt-br"
 paginate = 5
 title = "Amanda Frois Cardoso"
